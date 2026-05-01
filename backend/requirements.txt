@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+rdkit-pypi
+numpy==1.26.4
+pandas
+tqdm
+scikit-learn
+pydantic
+python-multipart
