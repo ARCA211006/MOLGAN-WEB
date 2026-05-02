@@ -31,4 +31,5 @@ __pycache__/
 venv/
 *.pth
 *.pt
+!models/best_model.pt
 outputs/
