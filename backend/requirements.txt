@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 torch
-rdkit-pypi
+rdkit
 numpy==1.26.4
 pandas
 tqdm
